@@ -16,6 +16,7 @@ AI 驱动的网页标注工具，支持高亮元素和添加文字批注。通�
 
 如图所示，AI 可以自动识别页面内容并添加批注：
 <img width="2559" height="1295" alt="26220ac4cf8bfeb4583d6872a5cf902b" src="https://github.com/user-attachments/assets/7ef8a5b1-7859-4749-81b1-194abf1f2b79" />
+<img width="2196" height="1102" alt="image" src="https://github.com/user-attachments/assets/7ab37171-6b25-4a7c-8339-88ed02d16df9" />
 
 **用户输入：**
 ```
