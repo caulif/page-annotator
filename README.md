@@ -14,7 +14,6 @@ AI 驱动的网页标注工具，支持高亮元素和添加文字批注。通�
 - 🎨 **多种样式** - 5 种颜色主题，3 种批注样式
 - 🔄 **碰撞检测** - 自动调整位置避免批注重叠
 - 🧹 **一键清除** - 快速移除所有标注
-- 🛠️ **诊断工具** - 智能错误提示和修复建议
 
 ## 📸 使用示例
 
@@ -22,7 +21,6 @@ AI 驱动的网页标注工具，支持高亮元素和添加文字批注。通�
 
 如图所示，AI 可以自动识别页面内容并添加批注：
 <img width="2559" height="1295" alt="26220ac4cf8bfeb4583d6872a5cf902b" src="https://github.com/user-attachments/assets/7ef8a5b1-7859-4749-81b1-194abf1f2b79" />
-<img width="1797" height="8964" alt="a7e936c5796750ccbf392f19c14c8bda" src="https://github.com/user-attachments/assets/50accbe6-96f4-4252-9035-ddd88e60e1cb" />
 
 **用户输入：**
 ```
